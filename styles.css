@@ -1,0 +1,35 @@
+/* 1. Reset/Normalize */
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/* 2. CSS Custom Properties (variables) */
+/* No custom properties defined */
+
+/* 3. Base styles */
+body, html {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+/* 4. Layout/Grid */
+/* No layout/grid styles defined */
+
+/* 5. Components */
+canvas {
+    border: 1px solid black;
+}
+
+/* 6. Utilities */
+/* No utility styles defined */
+
+/* 7. Media queries */
+/* No media queries defined */
+
+/* 8. Print styles */
+/* No print styles defined */
